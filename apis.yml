@@ -1,19 +1,43 @@
 aid: betterup
 name: BetterUp
-description: 'BetterUp is a company surfaced as a portfolio company of lightspeed-venture-partners and
-  added to the API Evangelist network as a stub for enrichment. Sector: hr-tech. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'BetterUp is an enterprise Human Transformation Platform that combines human and AI-powered
+  coaching, grounded in behavioral science and enterprise data, to help organizations develop leaders,
+  managers, and their broader workforce. Founded by Alexi Robichaux, BetterUp serves 750+ enterprise
+  customers including Google, Salesforce, Moderna, and Workday, with a network of 4,000+ coaches across
+  70+ countries. The platform delivers leadership development, manager effectiveness, AI coaching, and
+  workforce resilience programs. BetterUp is HR-tech / organizational-development software and exposes
+  no public developer API; platform integration is delivered through packaged enterprise connectors
+  (Workday, Salesforce, Slack, Microsoft Viva, SAP SuccessFactors, Degreed) plus HRIS and SSO
+  provisioning. Sector: hr-tech.'
 url: https://raw.githubusercontent.com/api-evangelist/betterup/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://logo.clearbit.com/betterup.com
 x-type: company
 x-source: lightspeed-venture-partners-portfolio
 x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Hr Tech
+- Coaching
+- Leadership Development
+- Professional Development
+- Employee Experience
+- Enterprise Software
+- Artificial Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +47,28 @@ maintainers:
 common:
 - type: Website
   url: https://www.betterup.com
+- type: Blog
+  url: https://www.betterup.com/blog
+- type: Support
+  url: https://support.betterup.com/hc/en-us
+- type: SignUp
+  url: https://app.betterup.co/users/sign_in
+- type: Login
+  url: https://app.betterup.co/users/sign_in
+- type: PrivacyPolicy
+  url: https://www.betterup.com/privacy-policy
+- type: TermsOfService
+  url: https://www.betterup.com/enterprise-software-as-a-service-agreement
+- type: TrustCenter
+  url: security/betterup-trust-center.yml
+- type: Compliance
+  url: https://www.betterup.com/trust-and-security
+- type: DomainSecurity
+  url: security/betterup-domain-security.yml
+- type: LLMsTxt
+  url: llms/betterup-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
