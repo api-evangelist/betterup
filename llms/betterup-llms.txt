@@ -1,0 +1,22 @@
+# BetterUp
+
+> BetterUp is an enterprise Human Transformation Platform combining human and AI-powered coaching, grounded in behavioral science, to help organizations develop leaders, managers, and workforces. It serves 750+ enterprise customers with a network of 4,000+ coaches across 70+ countries. BetterUp exposes no public developer API; integration with the platform is delivered through packaged enterprise connectors (Workday, Salesforce, Slack, Microsoft Viva, SAP SuccessFactors, Degreed) and HRIS/SSO provisioning.
+
+## Company
+- [BetterUp](https://www.betterup.com): Human Transformation Platform for the AI era
+- [About BetterUp](https://www.betterup.com/about-us): Company, mission, and scale
+- [Integrations](https://www.betterup.com/integrations): Enterprise HCM, CRM, and collaboration integrations
+- [Blog](https://www.betterup.com/blog): Leadership, coaching, and workplace AI thought leadership
+
+## Trust & Security
+- [Trust & Security](https://www.betterup.com/trust-and-security): Compliance and security posture overview
+- [Trust Portal](https://trust.betterup.com/): SOC 2 Type 2, SOC 3, ISO/IEC 27001:2022, ISO/IEC 42001:2023, FedRAMP, GDPR, CCPA
+
+## Support & Access
+- [Help Center](https://support.betterup.com/hc/en-us): Customer support and product help
+- [Sign in](https://app.betterup.co/users/sign_in): Member login
+
+## Legal
+- [Enterprise SaaS Agreement](https://www.betterup.com/enterprise-software-as-a-service-agreement): Enterprise terms
+- [Privacy Policy](https://www.betterup.com/privacy-policy): Privacy practices
+- [Legal Hub](https://www.betterup.com/legal-hub): All legal documents

@@ -1,0 +1,28 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+source: https://trust.betterup.com/
+url: https://trust.betterup.com/
+certifications:
+- SOC 2 Type 2
+- SOC 3
+- ISO/IEC 27001:2022
+- ISO/IEC 42001:2023
+- FedRAMP
+- GovRAMP
+- GDPR
+- CCPA
+- PIPEDA
+- EU-US Data Privacy Framework
+security_contact: security@betterup.co
+evidence:
+- source: https://trust.betterup.com/
+  keywords:
+  - soc 2 type 2
+  - soc 3
+  - iso/iec 27001:2022
+  - iso/iec 42001:2023
+  - fedramp
+  - gdpr
+  - ccpa
+  - eu-us data privacy framework
