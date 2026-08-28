@@ -10,6 +10,17 @@ description: 'BetterUp is an enterprise Human Transformation Platform that combi
   (Workday, Salesforce, Slack, Microsoft Viva, SAP SuccessFactors, Degreed) plus HRIS and SSO
   provisioning. Sector: hr-tech.'
 url: https://raw.githubusercontent.com/api-evangelist/betterup/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
