@@ -64,6 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-BetterUp is a company surfaced as a portfolio company of lightspeed-venture-partners and added to the API Evangelist network as a stub for enrichment. Sector: hr-tech. This profile is a lead awaiting the enrichment pipeline.
+BetterUp is an enterprise Human Transformation Platform that combines human and AI-powered coaching, grounded in behavioral science and enterprise data, to help organizations develop leaders, managers, and their broader workforce. Founded by Alexi Robichaux, BetterUp serves 750+ enterprise customers including Google, Salesforce, Moderna, and Workday, with a network of 4,000+ coaches across 70+ countries. The platform delivers leadership development, manager effectiveness, AI coaching, and workforce resilience programs. BetterUp is HR-tech / organizational-development software and exposes no public developer API; platform integration is delivered through packaged enterprise connectors (Workday, Salesforce, Slack, Microsoft Viva, SAP SuccessFactors, Degreed) plus HRIS and SSO provisioning. Sector: hr-tech.
 
-Source: portfolio company of [lightspeed-venture-partners](https://github.com/api-evangelist/lightspeed-venture-partners) — https://www.betterup.com
+**Areas:** Company · Human Resources · Coaching · Leadership Development · Professional Development · Employee Experience · Enterprise Software · Artificial Intelligence
+
+## BetterUp on APIs.io
+
+Everything profiled for BetterUp is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/betterup/](https://apis.io/providers/betterup/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Betterup Domain Security](https://apis.io/security/betterup/betterup-domain-security/)
+- [Betterup Trust Center](https://apis.io/security/betterup/betterup-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.betterup.com)
+- [Sign up](https://app.betterup.co/users/sign_in)
+- [Support](https://support.betterup.com/hc/en-us)
+- [Blog](https://www.betterup.com/blog)
+- [Compliance](https://www.betterup.com/trust-and-security)
+- [Terms of service](https://www.betterup.com/enterprise-software-as-a-service-agreement)
+- [Privacy policy](https://www.betterup.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 16.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 50.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 17.3** — Employment & Payroll
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/betterup/](https://apis.io/providers/betterup/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for BetterUp: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/betterup/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
